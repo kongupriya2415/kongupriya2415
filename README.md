@@ -4,13 +4,13 @@ Hi I am Priya...!!!!!!👋
 
 
 
--💻MERN stck developer 
-
+-💻MERN stack developer 
+-ReactNative Develeper
 
 
 -👀Reach me on...   
    
      E-mail-priya24427@gmail.com 
      GitHub-https://github.com/kongupriya2415 
--🤳Well Organised team
+-🤳Good On Team work
 ------>
