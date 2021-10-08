@@ -5,7 +5,7 @@ Hi I am Priya...!!!!!!👋
 
 
 -💻MERN stack developer 
--ReactNative Develeper
+-ReactNative Developer
 
 
 -👀Reach me on...   
